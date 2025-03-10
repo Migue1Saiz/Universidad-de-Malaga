@@ -1,8 +1,0 @@
-  487  git commit -m "Added all exercises of the part 1"
-  488  history
-  489  git push origin main
-  490  git push universidad main
-  491  git remote add universidad https://github.com/Migue1Saiz/Universidad-de-Malaga.git
-  492  git push universidad main
-  493  git push universidad master
-
